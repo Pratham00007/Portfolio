@@ -1,10 +1,10 @@
-# Personal Portfolio Website
+# <span style="color: #64ffda;">Personal Portfolio Website</span>
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
 ![Portfolio Preview](preview.png)
 
-## 🌟 Features
+## 🌟 <span style="color: #ccd6f6;">Features</span>
 
 - **Modern Design**
   - Clean and minimalist interface
@@ -41,15 +41,15 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
      - Professional links (GitHub, LinkedIn)
      - Contact information
 
-## 🎨 Color Scheme
+## 🎨 <span style="color: #ccd6f6;">Color Scheme</span>
 
 ```css
 :root {
-    --primary: #0a192f;    // Dark blue background
-    --secondary: #112240;  // Slightly lighter blue
-    --accent: #64ffda;    // Cyan accent color
-    --text: #8892b0;      // Light gray text
-    --bg: #0a192f;        // Main background color
+    --primary: #0a192f;    /* Dark blue background */
+    --secondary: #112240;  /* Slightly lighter blue */
+    --accent: #64ffda;    /* Cyan accent color */
+    --text: #8892b0;      /* Light gray text */
+    --bg: #0a192f;        /* Main background color */
 }
 ```
 
@@ -138,7 +138,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Pratham00007/portfolio/issues).
 
-## 📞 Contact
+## 📞 <span style="color: #ccd6f6;">Contact</span>
 
 - GitHub: [@Pratham00007](https://github.com/Pratham00007)
 - LinkedIn: [Pratham](https://linkedin.com/in/pratham-khetrapal)
