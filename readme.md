@@ -110,7 +110,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 portfolio/
 │
 ├── index.html          # Main HTML file
-
 └── README.md          # Documentation
 ```
 
