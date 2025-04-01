@@ -1,144 +1,85 @@
-# <span style="color: #64ffda;">Personal Portfolio Website</span>
+<div align="center" style="background: #0a192f;">
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
+# Portfolio Website
 
-![Portfolio Preview](preview.png)
+![Portfolio](preview.png)
 
-## 🌟 <span style="color: #ccd6f6;">Features</span>
+> A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
-- **Modern Design**
-  - Clean and minimalist interface
-  - Dark theme with accent colors
-  - Smooth scrolling and animations
-  - Responsive layout for all devices
+</div>
 
-- **Navigation**
-  - Fixed navigation bar with blur effect
-  - Smooth scroll to sections
-  - Social media links integration
-  - Mobile-friendly menu
+## ⭐ Features
 
-- **Sections**
-  1. **Hero Section**
-     - Personal introduction
-     - Call-to-action button
-     - Fade-in animation
-  
-  2. **About Section**
-     - Professional summary
-     - Circular profile picture with hover effects
-     - Skills list with custom bullets
-     - Technologies and tools
+### 🎨 Modern Design
+- **Minimalist Dark Theme**
+- **Color Scheme:**
+  ```css
+  --primary: #0a192f    /* Background */
+  --secondary: #112240  /* Cards */
+  --accent: #64ffda    /* Highlights */
+  --text: #8892b0      /* Body text */
+  ```
+- Smooth animations & transitions
+- Fully responsive layout
 
-  3. **Projects Section**
-     - Project cards with hover effects
-     - Technology stack tags
-     - Project descriptions
-     - Links to live demos and repositories
+### 🔗 Navigation
+- Fixed navbar with blur effect
+- Smooth scrolling
+- Integrated social links
+- Mobile-friendly menu
 
-  4. **Contact Section**
-     - Social media links
-     - Professional links (GitHub, LinkedIn)
-     - Contact information
+### 📱 Key Sections
 
-## 🎨 <span style="color: #ccd6f6;">Color Scheme</span>
+#### 1. Hero
+- Dynamic intro animation
+- Call-to-action button
+- Fade-in effects
 
-```css
-:root {
-    --primary: #0a192f;    /* Dark blue background */
-    --secondary: #112240;  /* Slightly lighter blue */
-    --accent: #64ffda;    /* Cyan accent color */
-    --text: #8892b0;      /* Light gray text */
-    --bg: #0a192f;        /* Main background color */
-}
+#### 2. About
+- Professional bio
+- Circular profile image
+- Tech stack & skills:
+  - React Native
+  - Flutter
+  - JavaScript
+  - Node.js
+  - React.js
+  - MySQL
+
+#### 3. Projects
+- Interactive project cards
+- Tech stack badges
+- Live demos & code links
+
+#### 4. Contact
+- Social media integration
+- Professional links
+- Direct contact options
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/Pratham00007/Portfolio.git
+cd portfolio
+# Open with VS Code Live Server
 ```
 
-## 🚀 Getting Started
+## 💻 Tech Stack
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Pratham00007/Portfolio.git
-   ```
-
-2. **Navigate to project directory**
-   ```bash
-   cd portfolio
-   ```
-
-3. **Open index.html in your browser**
-   - Double click index.html or
-   - Use Live Server in VS Code
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📱 Responsive Design
+- Desktop: Full layout
+- Tablet: Optimized spacing
+- Mobile: Collapsible nav
 
-- **Desktop**: Full layout with all features
-- **Tablet**: Adjusted spacing and font sizes
-- **Mobile**: 
-  - Collapsible navigation
-  - Stacked layout
-  - Optimized images
-  - Touch-friendly buttons
+## 📞 Connect
 
-## 💻 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Google Fonts (Poppins)
-
-## ✨ Special Features
-
-1. **Animations**
-   - Fade-in effects on scroll
-   - Hover transitions
-   - Smooth section transitions
-
-2. **Image Effects**
-   - Circular profile picture
-   - Grayscale to color transition
-   - Border animation
-
-3. **Interactive Elements**
-   - Hover effects on buttons
-   - Social media icon animations
-   - Project card transformations
-
-## 📄 File Structure
-
-```
-portfolio/
-│
-├── index.html          # Main HTML file
-└── README.md          # Documentation
-```
-
-## 🛠️ Customization
-
-1. **Personal Information**
-   - Update text in index.html
-   - Replace profile picture
-   - Modify social media links
-
-2. **Color Scheme**
-   - Edit CSS variables in :root
-   - Adjust opacity values
-   - Change gradient values
-
-3. **Projects**
-   - Add new project cards
-   - Update screenshots
-   - Modify technology tags
+[![GitHub](https://img.shields.io/badge/-Pratham00007-gray?style=flat-square&logo=github)](https://github.com/Pratham00007)
+[![LinkedIn](https://img.shields.io/badge/-Pratham-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pratham-khetrapal)
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Pratham00007/portfolio/issues).
-
-## 📞 <span style="color: #ccd6f6;">Contact</span>
-
-- GitHub: [@Pratham00007](https://github.com/Pratham00007)
-- LinkedIn: [Pratham](https://linkedin.com/in/pratham-khetrapal)
+[MIT](LICENSE) © Pratham
